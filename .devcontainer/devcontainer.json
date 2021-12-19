@@ -1,0 +1,32 @@
+{
+  "name": "typescript-design-pattern",
+  "dockerComposeFile": "./docker-compose.yml",
+  "service": "workspace",
+  "workspaceFolder": "/workspace",
+  "shutdownAction": "stopCompose",
+  "settings": {
+    "terminal.integrated.profiles.linux": {
+      "fish": {
+        "path": "usr/bin/fish",
+        "args": [
+          "-l"
+        ]
+      }
+    },
+  },
+  "extensions": [
+    "donjayamanne.githistory",
+    "shardulm94.trailing-spaces",
+    "visualstudioexptteam.vscodeintellicode",
+    "esbenp.prettier-vscode",
+    "oderwat.indent-rainbow",
+    "ionutvmi.path-autocomplete",
+    "editorconfig.editorconfig",
+    "github.vscode-pull-request-github",
+    "vscodevim.vim",
+    "coenraads.bracket-pair-colorizer",
+    "ms-ceintl.vscode-language-pack-ja",
+    "vscode-icons-team.vscode-icons",
+    "dbaeumer.vscode-eslint",
+  ],
+}
