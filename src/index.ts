@@ -1,1 +1,1 @@
-import './iterator/main'
+import './adapter/delegate/main'
