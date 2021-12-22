@@ -1,7 +1,7 @@
 export abstract class Display {
-  abstract open(): void
-  abstract print(): void
-  abstract close(): void
+  protected abstract open(): void
+  protected abstract print(): void
+  protected abstract close(): void
   display(): void {
     this.open()
     for (let i = 0; i < 5; i++) {
