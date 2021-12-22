@@ -1,1 +1,1 @@
-import './templateMethod/main'
+import './factory/main'
