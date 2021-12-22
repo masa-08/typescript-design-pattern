@@ -1,1 +1,1 @@
-import './adapter/delegate/main'
+import './templateMethod/main'
