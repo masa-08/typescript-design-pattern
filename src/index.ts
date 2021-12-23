@@ -1,1 +1,1 @@
-import './factory/main'
+import './singleton/main'
