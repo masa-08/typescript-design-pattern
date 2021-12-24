@@ -1,1 +1,1 @@
-import './singleton/main'
+import './adapter/inheritance/main'
