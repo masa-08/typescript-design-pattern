@@ -1,1 +1,1 @@
-import './adapter/inheritance/main'
+import './prototype/main'
