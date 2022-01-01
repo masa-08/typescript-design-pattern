@@ -1,1 +1,1 @@
-import './strategy/main'
+import './composite/main'
