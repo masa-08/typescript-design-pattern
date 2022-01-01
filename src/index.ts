@@ -1,1 +1,1 @@
-import './bridge/main'
+import './strategy/main'
