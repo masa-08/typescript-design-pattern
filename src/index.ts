@@ -1,1 +1,1 @@
-import './composite/main'
+import './decorator/main'
