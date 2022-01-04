@@ -1,1 +1,1 @@
-import './facade/main'
+import './mediator/main'
