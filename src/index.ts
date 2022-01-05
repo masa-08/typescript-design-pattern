@@ -1,1 +1,1 @@
-import './observer/main'
+import './memento/main'
