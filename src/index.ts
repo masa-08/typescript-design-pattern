@@ -1,1 +1,1 @@
-import './flyweight/main'
+import './proxy/main'
