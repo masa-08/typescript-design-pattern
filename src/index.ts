@@ -1,1 +1,1 @@
-import './proxy/main'
+import './command/main'
