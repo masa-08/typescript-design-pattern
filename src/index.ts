@@ -1,1 +1,1 @@
-import './command/main'
+import './interpreter/main'
